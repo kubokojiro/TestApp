@@ -41,6 +41,13 @@
     
         label.text=[NSString stringWithFormat:@"%f",number];
     }
+
+- (IBAction)plus100{
+    
+}
+
+
+
 -(IBAction)crear{
     number=0;
     if(50>=number && number>=11){
