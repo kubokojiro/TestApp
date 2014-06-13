@@ -86,6 +86,7 @@
 				B5C9873917FECFF4008DFC12 /* countTests */,
 				B5C9871317FECFF4008DFC12 /* Frameworks */,
 				B5C9871217FECFF4008DFC12 /* Products */,
+				B5C9871B17FECFF4008DFC12 /* Supporting Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -118,7 +119,6 @@
 				B5C9872917FECFF4008DFC12 /* ViewController.h */,
 				B5C9872A17FECFF4008DFC12 /* ViewController.m */,
 				B5C9872C17FECFF4008DFC12 /* Images.xcassets */,
-				B5C9871B17FECFF4008DFC12 /* Supporting Files */,
 			);
 			path = count;
 			sourceTree = "<group>";
@@ -132,6 +132,7 @@
 				B5C9872217FECFF4008DFC12 /* count-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			path = count;
 			sourceTree = "<group>";
 		};
 		B5C9873917FECFF4008DFC12 /* countTests */ = {
@@ -460,6 +461,7 @@
 				B5C9874517FECFF4008DFC12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5C9874617FECFF4008DFC12 /* Build configuration list for PBXNativeTarget "countTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +470,7 @@
 				B5C9874817FECFF4008DFC12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

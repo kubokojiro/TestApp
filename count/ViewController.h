@@ -10,4 +10,61 @@
 
 @interface ViewController : UIViewController
 
+{
+    float number;
+    IBOutlet UILabel *label;
+}
+
+-(IBAction)plus;
+
+-(IBAction)mainasu;
+
+-(IBAction)crear;
+
+-(IBAction)waru;
+
+-(IBAction)kakeru;
+
+-(IBAction)NERV;
+
+
+
+
+
+
+
+-(IBAction)bt1;
+
+-(IBAction)bt2;
+
+-(IBAction)bt3;
+
+-(IBAction)bt4;
+
+-(IBAction)bt5;
+
+-(IBAction)bt6;
+
+-(IBAction)bt7;
+
+-(IBAction)bt8;
+
+-(IBAction)bt9;
+
+-(IBAction)bt0;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @end
